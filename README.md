@@ -1,9 +1,9 @@
 ## FigS
 FigS 是一款面向 MATLAB `.fig` 图像的可视化美化与导出工具，主要用于对多组 Fig 图进行统一风格设置、快速排版调整和高质量图片导出。软件提供图形界面，支持预设风格、用户模板、配色方案、坐标轴与字体调整、图例处理以及多格式图片导出，适用于论文绘图、学位论文插图和科研汇报图像整理等场景。
 <p align="center">
-  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/f284f329-2957-4f5f-84d6-91a11356b0a1" />
-  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/82105eaf-88d3-48e0-91d1-95cf42cfc590" />
-  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/681c967c-05db-4fa6-9a50-1a92a1d66ce8" />
+  <img width="40%" alt="image" src="https://github.com/user-attachments/assets/f284f329-2957-4f5f-84d6-91a11356b0a1" />
+  <img width="40%" alt="image" src="https://github.com/user-attachments/assets/82105eaf-88d3-48e0-91d1-95cf42cfc590" />
+  <img width="40%" alt="image" src="https://github.com/user-attachments/assets/681c967c-05db-4fa6-9a50-1a92a1d66ce8" />
 </p>
 
 ## 主要功能

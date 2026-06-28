@@ -52,10 +52,10 @@ FigS/
 
 3. 在弹出的“设置路径”窗口中，点击：
 添加并包含子文件夹...
-<img width="1454" height="960" alt="image" src="https://github.com/user-attachments/assets/2f079cbd-31ef-4c65-9173-2707bd845131" />
+<img width="30% alt="image" src="https://github.com/user-attachments/assets/2f079cbd-31ef-4c65-9173-2707bd845131" />
 
 4. 选择 FigS 所在文件夹。
-  <img width="1418" height="949" alt="image" src="https://github.com/user-attachments/assets/700362dd-00a6-43cb-8dde-ed330602fa1f" />
+  <img width="30% alt="image" src="https://github.com/user-attachments/assets/700362dd-00a6-43cb-8dde-ed330602fa1f" />
   
 6. 点击“保存”，完成路径添加。
 
@@ -64,7 +64,7 @@ FigS/
 ## 启动方法
 
 在 MATLAB 命令行窗口中输入：FigS
-<img width="2132" height="1408" alt="image" src="https://github.com/user-attachments/assets/ae73a6bc-a699-466d-9ccc-7527e2b95f5f" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/ae73a6bc-a699-466d-9ccc-7527e2b95f5f" />
 
 运行后将打开 FigS 图形界面，即 Plot Style Studio。
 

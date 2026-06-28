@@ -64,7 +64,8 @@ FigS/
 ## 启动方法
 
 在 MATLAB 命令行窗口中输入：FigS
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/ae73a6bc-a699-466d-9ccc-7527e2b95f5f" />
+
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/ae73a6bc-a699-466d-9ccc-7527e2b95f5f" />
 
 运行后将打开 FigS 图形界面，即 Plot Style Studio。
 
@@ -163,25 +164,37 @@ legend('Location', 'best');
 title('增强折线图 - fb\_line');
 xlabel('x'); ylabel('y');
 ```
-<img width="1124" height="996" alt="image" src="https://github.com/user-attachments/assets/b7791bd7-0da5-44f0-926f-001d3dcb2531" />
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/b7791bd7-0da5-44f0-926f-001d3dcb2531" />
 
 随后在命令行输入：FigS
 
-通用模板：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/d65c6394-8f68-4502-991b-812e442b7bfb" />
-细线简约：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/9531021e-2992-4762-8bf9-122dab15d981" />
-细线全框：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/8dbc99f8-0e3d-4c72-8509-e56fdd096fa8" />
-粗线全框：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/2d40dd66-e070-455f-aee0-61a7ad508d07" />
+**通用模板**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/d65c6394-8f68-4502-991b-812e442b7bfb" />
+**细线简约**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/9531021e-2992-4762-8bf9-122dab15d981" />
+**细线全框**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/8dbc99f8-0e3d-4c72-8509-e56fdd096fa8" />
+**粗线全框**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/2d40dd66-e070-455f-aee0-61a7ad508d07" />
 
-中英文字体（中文宋体；英文新罗马）：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/e27c7af7-18d0-4974-a357-603891d1bc85" />
-局部放大：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/0f44110d-0893-4d90-98f7-9b9431ba0691" />
-Line_虚线：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/1f5d2b9f-5c39-4bd8-9132-873cea1ec0fd" />
-Line_标记：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/2d09428b-0500-4ee6-82b6-8423b988a514" />
-如果标记点太多，在“调整”->“数据对象”->“添加标记”（需要手动改变不同线标记样式）：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/fd405834-fb9f-425e-8a5e-e2b0834cd1bb" />
+**中英文字体（中文宋体；英文新罗马）**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/e27c7af7-18d0-4974-a357-603891d1bc85" />
+**局部放大**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/0f44110d-0893-4d90-98f7-9b9431ba0691" />
+**Line_虚线**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/1f5d2b9f-5c39-4bd8-9132-873cea1ec0fd" />
+**Line_标记**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/2d09428b-0500-4ee6-82b6-8423b988a514" />
+**如果标记点太多，在“调整”->“数据对象”->“添加标记”（需要手动改变不同线标记样式）**：
+<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/fd405834-fb9f-425e-8a5e-e2b0834cd1bb" />
 
 临时渐变色：对于imagesc函数无法使用颜色模板，需要在常用函数“临时渐变色”进行操作
-原图：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/f076c71e-0522-45e8-989b-0c155b40db32" />
-设置：<img width="748" height="366" alt="image" src="https://github.com/user-attachments/assets/40712fe7-26ff-4240-9582-cda37a1bbfd0" />
-美化：<img width="1213" height="836" alt="image" src="https://github.com/user-attachments/assets/d5b14c25-62f1-4fdd-9954-2bb4c03911a5" />
+**原图**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/f076c71e-0522-45e8-989b-0c155b40db32" />
+**设置**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/40712fe7-26ff-4240-9582-cda37a1bbfd0" />
+**美化**：
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/d5b14c25-62f1-4fdd-9954-2bb4c03911a5" />
 **如果是对线条进行美化，渐变数量n选择对应的线条数量**
 
 

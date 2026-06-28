@@ -48,14 +48,14 @@ FigS/
 1. 打开 MATLAB。
 2. 在 MATLAB 顶部菜单栏中选择：
 主页 → 设置路径
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/b3ce7847-bb4d-4e18-a2b4-fa9bca9a4b7d" />
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/b3ce7847-bb4d-4e18-a2b4-fa9bca9a4b7d" />
 
 3. 在弹出的“设置路径”窗口中，点击：
 添加并包含子文件夹...
-<img width="30% alt="image" src="https://github.com/user-attachments/assets/2f079cbd-31ef-4c65-9173-2707bd845131" />
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/2f079cbd-31ef-4c65-9173-2707bd845131" />
 
 4. 选择 FigS 所在文件夹。
-  <img width="30% alt="image" src="https://github.com/user-attachments/assets/700362dd-00a6-43cb-8dde-ed330602fa1f" />
+  <img width="60%" alt="image" src="https://github.com/user-attachments/assets/700362dd-00a6-43cb-8dde-ed330602fa1f" />
   
 6. 点击“保存”，完成路径添加。
 

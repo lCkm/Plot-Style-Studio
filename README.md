@@ -170,7 +170,8 @@ xlabel('x'); ylabel('y');
 
 **通用模板**：
 
-<img width="40%" alt="image" src="https://github.com/user-attachments/assets/d65c6394-8f68-4502-991b-812e442b7bfb" />
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/eef3a37a-2c3a-43a6-bbcc-4e340e5ae0d9" />
+
 
 **细线简约**：
 
